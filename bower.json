@@ -1,0 +1,23 @@
+{
+  "name": "ng-maps-lite",
+  "main": "ng-maps-lite.js",
+  "homepage": "https://github.com/jofftiquez/ng-maps-lite",
+  "authors": [
+    "Jofferson Tiquez <jofftiquez@gmail.com>"
+  ],
+  "description": "A simple and easy google maps intergration for AngularJs.",
+  "keywords": [
+    "google",
+    "google",
+    "maps",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
